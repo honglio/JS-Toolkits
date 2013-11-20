@@ -1,0 +1,39 @@
+{
+  "name": "backboneapp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Repository for reuse and common solutions.",
+  "main": null,
+  "directories": {
+    "script": "script",
+    "test": "tests"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "jshint": "~2.1.3"
+  },
+  "scripts": {
+    "test": "jshint test && mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/honglio/commonJS.git"
+  },
+  "keywords": [
+    "code",
+    "reuse",
+    "common",
+    "solution"
+  ],
+  "author": "Hong Liu",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/honglio/commonJS/issues"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
