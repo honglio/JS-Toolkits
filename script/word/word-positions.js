@@ -2,7 +2,7 @@
 
 # Find Word Positions in Text
 
-Given a text file and a word, find the positions that the word occurs in the file. We¡¯ll be asked to find the positions of many words in the same file.
+Given a text file and a word, find the positions that the word occurs in the file. We'll be asked to find the positions of many words in the same file.
 
 ## Source
 
