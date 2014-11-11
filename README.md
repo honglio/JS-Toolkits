@@ -1,7 +1,6 @@
-# Common JS
+# Reuseble JS
 
-This is my repo for reuse and common solutions that I have completed 
-prior to or during an interview, as well as general problem snippets. 
+This is a repo of common solutions that I have completed general problem snippets. 
 I hope that all these problems (and solutions) are useful to others 
 for practice and review. 
 
@@ -16,7 +15,7 @@ for practice and review.
 
 ### DOM-based Solutions
 
-* [Widget] * Not implement yet
+* TODO: [Widget]
 
 ### Word Solutions
 
