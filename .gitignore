@@ -213,3 +213,28 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Nodejs
+#############
+
+node_modules
+temp
+dist
+.sass-cache
+app/bower_components
+.tmp/
+.monitor
+
+#############
+## Picasa
+#############
+
+.picasa.ini
+
+#############
+## Log
+#############
+
+log/
+built
