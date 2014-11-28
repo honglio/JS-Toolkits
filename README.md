@@ -13,6 +13,12 @@ for practice and review.
 * [Linked List] 
 * [Multimap]
 
+### Algorithm
+
+* [CSV-Parsing]
+* [Debounce]
+* [Throttle]
+
 ### DOM-based Solutions
 
 * TODO: [Widget]
