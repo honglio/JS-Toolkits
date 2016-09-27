@@ -1,4 +1,4 @@
-# Reuseble JS
+# JS Toolkits
 
 This is a repo of common solutions that I have completed general problem snippets. 
 I hope that all these problems (and solutions) are useful to others 
