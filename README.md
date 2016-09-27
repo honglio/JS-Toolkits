@@ -19,9 +19,9 @@ for practice and review.
 * [Debounce]
 * [Throttle]
 
-### DOM-based Solutions
+### HTML5
 
-* TODO: [Widget]
+* [Session Storage]
 
 ### Word Solutions
 
